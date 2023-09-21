@@ -1,0 +1,5 @@
+C:\Users\guilh\source\repos\MayoCheats\bin\Release\net6.0-windows\publish\MayoCheats.exe
+C:\Users\guilh\source\repos\MayoCheats\bin\Release\net6.0-windows\publish\MayoCheats.dll
+C:\Users\guilh\source\repos\MayoCheats\bin\Release\net6.0-windows\publish\MayoCheats.deps.json
+C:\Users\guilh\source\repos\MayoCheats\bin\Release\net6.0-windows\publish\MayoCheats.runtimeconfig.json
+C:\Users\guilh\source\repos\MayoCheats\bin\Release\net6.0-windows\publish\MayoCheats.pdb

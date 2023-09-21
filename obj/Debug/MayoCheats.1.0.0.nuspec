@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MayoCheats</id>
+    <version>1.0.0</version>
+    <authors>MayoCheats</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\guilh\source\repos\MayoCheats\bin\Debug\net6.0-windows\MayoCheats.runtimeconfig.json" target="lib\net6.0-windows7.0\MayoCheats.runtimeconfig.json" />
+    <file src="C:\Users\guilh\source\repos\MayoCheats\bin\Debug\net6.0-windows\MayoCheats.dll" target="lib\net6.0-windows7.0\MayoCheats.dll" />
+    <file src="C:\Users\guilh\source\repos\MayoCheats\Icon.ico" target="content\Icon.ico" />
+    <file src="C:\Users\guilh\source\repos\MayoCheats\Icon.ico" target="contentFiles\any\net6.0-windows7.0\Icon.ico" />
+  </files>
+</package>

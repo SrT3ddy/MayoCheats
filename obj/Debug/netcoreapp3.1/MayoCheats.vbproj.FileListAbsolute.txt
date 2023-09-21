@@ -1,0 +1,9 @@
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.vbproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.Form1.resources
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.Form2.resources
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.Resources.resources
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.vbproj.GenerateResource.cache
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.AssemblyInfo.vb
+C:\Users\guilh\source\repos\MayoCheats\obj\Debug\netcoreapp3.1\MayoCheats.vbproj.CoreCompileInputs.cache
